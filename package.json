@@ -14,14 +14,15 @@
   "dependencies": {
     "bcrypt": "^3.0.1",
     "joi": "^13.7.0",
+    "jsonwebtoken": "^8.3.0",
     "knex": "^0.15.2",
     "koa": "^2.5.3",
     "koa-bodyparser": "^4.2.1",
     "koa-logger": "^3.2.0",
     "koa-router": "^7.4.0",
     "koa2-cors": "^2.0.6",
-    "winston": "^3.1.0",
-    "pg": "^7.5.0"
+    "pg": "^7.5.0",
+    "winston": "^3.1.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.1.2",
